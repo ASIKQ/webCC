@@ -1,7 +1,7 @@
 # webCC
-TOP-MAC资源导航：
+# TOP-MAC资源导航：
 1、马克喵：https://www.macat.vip
-TOP-云接码：
+# TOP-云接码：
 1、https://yunjiema.net/meiguohaoma/
 2、https://sms-activate.org/
 3、https://www.supercloudsms.com/en/
@@ -14,4 +14,3 @@ TOP-云接码：
 10、https://yunjisms.xyz/
 11、https://www.storytrain.info/
 12、www.xnsms.com
-13、
