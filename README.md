@@ -1,2 +1,2 @@
 # webCC
-若有问题或投稿，请发送至邮箱：k628628286@163.com
+若有问题或投稿，请发送至邮箱：CCstarslove@gmail.com
